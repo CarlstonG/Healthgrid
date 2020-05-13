@@ -8,6 +8,7 @@
     "node-sass": "^4.14.1"
   },
   "devDependencies": {},
+  "homepage": "https://CarlstonG.github.io/Healthgrid",
   "scripts": {
     "sass": "node-sass -w scss/ -o DIR/css/ --recursive",
     "deploy": "gh-pages -d DIR" 
