@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "gh-pages": "^2.2.0",
-    "node-sass": "^4.14.1"
+    "node-sass": "^7.0.0"
   },
   "devDependencies": {},
   "homepage": "https://CarlstonG.github.io/Healthgrid",
